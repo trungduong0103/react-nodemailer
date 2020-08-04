@@ -1,2 +1,2 @@
 # react-nodemailer
-A simple websites for restaurants to manage their menu
+A simple website for restaurants to manage their menu
